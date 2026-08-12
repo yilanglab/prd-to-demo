@@ -1,0 +1,4 @@
+interface:
+  display_name: "PRD to Demo"
+  short_description: "将多格式 PRD 转化为可验证的高保真前端交互 Demo"
+  default_prompt: "使用 $prd-to-demo 分析这份 PRD，并在两次确认门禁后构建高保真交互 Demo。"
